@@ -1,4 +1,4 @@
-## <h3 align="center">Aloha, I'm <a href="https://www.jessicajane.org"> Jess!</a></h3>
+## <h3 align="center">Hey! I'm <a href="https://www.jessicajane.org"> Jess!</a></h3>
 <p align="center">
   <a href="https://jessicajane.org" rel="nofollow">Website</a> •
   <a href="https://www.linkedin.com/in/jessica-k/" rel="nofollow">LinkedIn</a>
